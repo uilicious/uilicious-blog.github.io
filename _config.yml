@@ -5,18 +5,27 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
+#
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+title : UI-Licious blog
+tagline: Blogging on the "Next Generation Automated UI Testing", and various other things
+author:
+    shiling : 
+        avartar : "https://avatars.githubusercontent.com/u/2376845?v=3&s=240"
+        name : Shi Ling
+        email : shiling@uilicious.com
+        github : shiling
+        twitter : taishiling
+    eugene : 
+        avartar : "https://avatars.githubusercontent.com/u/17175484?v=3&s=240"
+        name : Eugene Cheah
+        email : eugene@uilicious.com
+        github : picoCreator
+        twitter : picocreator
 
+#
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -29,6 +38,7 @@ production_url : https://blog.uilicious.com
 
 gems: ["jekyll-sitemap"]
 
+#
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
