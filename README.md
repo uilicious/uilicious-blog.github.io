@@ -1,3 +1,7 @@
+# ARCHIVE COPY
+
+Note that these docs is archived + heavily out of sync, and is replaced by : https://blog.uilicious.com/ (which is based on medium)
+
 # blog.uilicious.com
 
 This site is brought to you thankfully with the following :
